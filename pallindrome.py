@@ -1,4 +1,4 @@
-
+#check whether the input value is a pallindrome or not
 k=0
 while (k<10):
 	flag=0
